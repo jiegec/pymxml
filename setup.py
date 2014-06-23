@@ -27,5 +27,6 @@ setup(name="pymxml",
              "License :: OSI Approved :: Apache Software License",
              "Development Status :: 4 - Beta",
              "Operating System :: OS Independent",
-             ]
+             ],
+      long_description=open('README.txt').read()
 )
